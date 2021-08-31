@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1> I am Sushang Agnihotri </h1>
 
-<h2> My Visites per day</h2>
+<h2> My Visiters </h2>
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Sushang-Agnihotri.Sushang-Agnihotri)
 
